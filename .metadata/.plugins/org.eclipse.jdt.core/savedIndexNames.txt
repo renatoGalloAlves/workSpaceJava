@@ -1,0 +1,11 @@
+INDEX VERSION 1.131+/home/gallo/Área de Trabalho/workspace/.metadata/.plugins/org.eclipse.jdt.core
+1943388868.index
+4067686065.index
+2239022631.index
+3902635820.index
+2549889715.index
+1851077046.index
+1803200267.index
+369246647.index
+646308851.index
+1993042143.index

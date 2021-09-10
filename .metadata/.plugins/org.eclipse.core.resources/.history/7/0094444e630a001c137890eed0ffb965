@@ -1,0 +1,19 @@
+
+public class CaixaEletronico {
+	public static void main(String[] args) {
+		int nota100, nota50, nota20, nota10, nota5, nota2, nota1, valorfixo;
+
+		nota100 = 100;
+		nota50 = 50;
+		nota20 = 20;
+		nota10 = 10;
+		nota5 = 5;
+		nota2 = 2;
+		nota1 = 1;
+		valorfixo = 188;
+		
+		System.out.println(nota100);
+
+	}
+
+}

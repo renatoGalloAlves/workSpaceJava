@@ -1,0 +1,16 @@
+
+public class Continhas {
+	public static void main(String[] args) {
+		int a, b, c;
+
+		a = 5;
+		System.out.println("Valor de a = "+a);
+		b = 3;
+		System.out.println("Valor de b = "+b);
+		c = a + b;
+		
+		System.out.println("Valor de c = "+c);
+
+	}
+
+}
